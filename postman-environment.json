@@ -9,7 +9,7 @@
     },
     {
       "key": "Service_Ordering",
-      "value": "http://service-ordering-management-test",
+      "value": "http://service-order-management-test",
       "enabled": true
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "key": "ServiceOrderingAPI",
-      "value": "http://service-ordering-management-test/tmf-api/serviceOrdering/v4/",
+      "value": "http://service-order-management-test/tmf-api/serviceOrdering/v4/",
       "type": "default",
       "enabled": true
     },
