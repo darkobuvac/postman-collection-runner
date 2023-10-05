@@ -74,12 +74,12 @@
 		},
 		{
 			"key": "Service_Inventory",
-			"value": "http://service-inventory-management-test/tmf-api/serviceOrdering/v4/",
+			"value": "http://service-inventory-management-test/tmf-api/serviceInventory/v4/",
 			"type": "default",
 			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2023-10-05T12:54:36.587Z",
+	"_postman_exported_at": "2023-10-05T12:58:00.079Z",
 	"_postman_exported_using": "Postman/10.18.11"
 }
